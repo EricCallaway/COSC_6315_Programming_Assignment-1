@@ -11,3 +11,5 @@ A: I'm not entirely sure. If I had to guess I would assume that the Lot area, ye
 Q: Do you think a different dataset can change the choice of the best model?
 A: Absolutely, the differences in the percentage of correct predictions were very close. A different data set can most definitely tell a completely different story of what model is a better fit.
 
+Q2: Which value of 𝜃0 𝜃1 Will minimize the cost function most?
+A: Manipulating theta0 (y-intercept) will have a greater effect on minimizing the cost function. Manipulating theta1 (the slope) shows incremental changes, while manipulating theta0 (y-intercept) shows much larger changes in the total error.
