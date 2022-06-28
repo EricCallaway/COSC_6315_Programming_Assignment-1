@@ -13,3 +13,10 @@ A: Absolutely, the differences in the percentage of correct predictions were ver
 
 Q2: Which value of 𝜃0 𝜃1 Will minimize the cost function most?
 A: Manipulating theta0 (y-intercept) will have a greater effect on minimizing the cost function. Manipulating theta1 (the slope) shows incremental changes, while manipulating theta0 (y-intercept) shows much larger changes in the total error.
+
+
+Part 02
+
+2. Calculate the accuracy - The accuracy of the Logistic regression model was only 10.89%. This calculation was derived from the confusion matrix scores. (True positive + True negative) / All the data points = accuracy of model
+
+3. The AUROC for this Logistic Regression model was 0.952. I juxtaposed this metric with a AUROC value of a random prediction model which had an AUROC value of 0.500.
